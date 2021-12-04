@@ -478,7 +478,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"𝐋𝐘𝐍𝐗 ʙᴏᴛ sᴘᴀᴍ ʜᴇʀᴇ `{ms}` 𝗠𝗦 #Lynx_OP")
+        await event.edit(f"shreyu ʙᴏᴛ sᴘᴀᴍ ʜᴇʀᴇ `{ms}` 𝗠𝗦 #Happy_Birthday_Shreyu")
     
 
 
@@ -515,32 +515,32 @@ async def restart(e):
         quit()
 
        
-@idk.on(events.NewMessage(incoming=True, pattern=r"\.lynx"))
-@ydk.on(events.NewMessage(incoming=True, pattern=r"\.lynx"))
-@wdk.on(events.NewMessage(incoming=True, pattern=r"\.lynx"))
-@hdk.on(events.NewMessage(incoming=True, pattern=r"\.lynx"))
-@sdk.on(events.NewMessage(incoming=True, pattern=r"\.lynx"))
+@idk.on(events.NewMessage(incoming=True, pattern=r"\.shreyu"))
+@ydk.on(events.NewMessage(incoming=True, pattern=r"\.shreyu"))
+@wdk.on(events.NewMessage(incoming=True, pattern=r"\.shreyu"))
+@hdk.on(events.NewMessage(incoming=True, pattern=r"\.shreyu"))
+@sdk.on(events.NewMessage(incoming=True, pattern=r"\.shreyu"))
 async def alive(event):
     if event.sender_id in SMEX_USERS:
      await idk.send_file(event.chat_id,
                                   RIZ_PIC,
-                                  caption="♡︎ ░▒▓█ LYNX SPAMBOT █▓▒░ ♡︎\n\n\n ✧ 𝐋𝐲𝐧𝐱 𝐒𝐩𝐚𝐦𝐁𝐨𝐭 𝐢𝐬 𝐚𝐥𝐢𝐯𝐞 ✧\n\n ┏━━━━━━━━━━━━━━━━━━━\n ┣➣ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 3.9.6\n ┣➣ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 1.17 \n ┣➣ sᴜᴘᴘᴏʀᴛ : [JOIN](https://t.me/LynxBot_Chat)\n ┣➣ ᴄʀᴇᴀᴛᴇʀ : [Birthday girl](https://t.me/CRAZY_SHREYUU)\n ┗━━━━━━━━━━━━━━━━━━━\n\n 🖤 [𝐑𝐄𝐏𝐎](https://github.com/Itz-UNKOWN-xd/Lynx-Multi-SpamBot) 🖤"                                
+                                  caption="♡︎ ░▒▓█ shreyu SPAMBOT █▓▒░ ♡︎\n\n\n ✧ shreyu 𝐒𝐩𝐚𝐦𝐁𝐨𝐭 𝐢𝐬 𝐚𝐥𝐢𝐯𝐞 ✧\n\n ┏━━━━━━━━━━━━━━━━━━━\n ┣➣ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 3.9.6\n ┣➣ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 1.17 \n ┣➣ sᴜᴘᴘᴏʀᴛ : [JOIN](https://t.me/LynxBot_Chat)\n ┣➣ ᴄʀᴇᴀᴛᴇʀ : [Birthday girl](https://t.me/CRAZY_SHREYUU)\n ┗━━━━━━━━━━━━━━━━━━━\n\n 🖤 [𝐑𝐄𝐏𝐎](https://github.com/Itz-UNKOWN-xd/Lynx-Multi-SpamBot) 🖤"                                
                               )
      await ydk.send_file(event.chat_id,
                                   RIZ_PIC,
-                                  caption="♡︎ ░▒▓█ LYNX SPAMBOT █▓▒░ ♡︎\n\n\n ✧ 𝐋𝐲𝐧𝐱 𝐒𝐩𝐚𝐦𝐁𝐨𝐭 𝐢𝐬 𝐚𝐥𝐢𝐯𝐞 ✧\n\n ┏━━━━━━━━━━━━━━━━━━━\n ┣➣ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 3.9.6\n ┣➣ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 1.17 \n ┣➣ sᴜᴘᴘᴏʀᴛ : [JOIN](https://t.me/LynxBot_Chat)\n ┣➣ ᴄʀᴇᴀᴛᴇʀ : [Birthday girl](https://t.me/CRAZY_SHREYUU)\n ┗━━━━━━━━━━━━━━━━━━━\n\n 🖤 [𝐑𝐄𝐏𝐎](https://github.com/Itz-UNKOWN-xd/Lynx-Multi-SpamBot) 🖤"                                
+                                  caption="♡︎ ░▒▓█ shreyu SPAMBOT █▓▒░ ♡︎\n\n\n ✧ shreyu 𝐒𝐩𝐚𝐦𝐁𝐨𝐭 𝐢𝐬 𝐚𝐥𝐢𝐯𝐞 ✧\n\n ┏━━━━━━━━━━━━━━━━━━━\n ┣➣ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 3.9.6\n ┣➣ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 1.17 \n ┣➣ sᴜᴘᴘᴏʀᴛ : [JOIN](https://t.me/LynxBot_Chat)\n ┣➣ ᴄʀᴇᴀᴛᴇʀ : [Birthday girl](https://t.me/CRAZY_SHREYUU)\n ┗━━━━━━━━━━━━━━━━━━━\n\n 🖤 [𝐑𝐄𝐏𝐎](https://github.com/Itz-UNKOWN-xd/Lynx-Multi-SpamBot) 🖤"                                
                               )
      await wdk.send_file(event.chat_id,
                                   RIZ_PIC,
-                                  caption="♡︎ ░░▒▓█ LYNX SPAMBOT █▓▒░ ♡︎\n\n\n ✧ 𝐋𝐲𝐧𝐱 𝐒𝐩𝐚𝐦𝐁𝐨𝐭 𝐢𝐬 𝐚𝐥𝐢𝐯𝐞 ✧\n\n ┏━━━━━━━━━━━━━━━━━━━\n ┣➣ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 3.9.6\n ┣➣ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 1.17 \n ┣➣ sᴜᴘᴘᴏʀᴛ : [JOIN](https://t.me/LynxBot_Chat)\n ┣➣ ᴄʀᴇᴀᴛᴇʀ : [Birthday girl](https://t.me/CRAZY_SHREYUU)\n ┗━━━━━━━━━━━━━━━━━━━\n\n 🖤 [𝐑𝐄𝐏𝐎](https://github.com/Itz-UNKOWN-xd/Lynx-Multi-SpamBot) 🖤"                                
+                                  caption="♡︎ ░░▒▓█ shreyu SPAMBOT █▓▒░ ♡︎\n\n\n ✧ shreyu 𝐒𝐩𝐚𝐦𝐁𝐨𝐭 𝐢𝐬 𝐚𝐥𝐢𝐯𝐞 ✧\n\n ┏━━━━━━━━━━━━━━━━━━━\n ┣➣ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 3.9.6\n ┣➣ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 1.17 \n ┣➣ sᴜᴘᴘᴏʀᴛ : [JOIN](https://t.me/LynxBot_Chat)\n ┣➣ ᴄʀᴇᴀᴛᴇʀ : [Birthday girl](https://t.me/CRAZY_SHREYUU)\n ┗━━━━━━━━━━━━━━━━━━━\n\n 🖤 [𝐑𝐄𝐏𝐎](https://github.com/Itz-UNKOWN-xd/Lynx-Multi-SpamBot) 🖤"                                
                               )
      await hdk.send_file(event.chat_id,
                                   RIZ_PIC,
-                                  caption="♡︎ ░▒▓█ LYNX SPAMBOT █▓▒░ ♡︎\n\n\n ✧ 𝐋𝐲𝐧𝐱 𝐒𝐩𝐚𝐦𝐁𝐨𝐭 𝐢𝐬 𝐚𝐥𝐢𝐯𝐞 ✧\n\n ┏━━━━━━━━━━━━━━━━━━━\n ┣➣ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 3.9.6\n ┣➣ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 1.17 \n ┣➣ sᴜᴘᴘᴏʀᴛ : [JOIN](https://t.me/LynxBot_Chat)\n ┣➣ ᴄʀᴇᴀᴛᴇʀ : [Birthday girl](https://t.me/CRAZY_SHREYUU)\n ┗━━━━━━━━━━━━━━━━━━━\n\n 🖤 [𝐑𝐄𝐏𝐎](https://github.com/Itz-UNKOWN-xd/Lynx-Multi-SpamBot) 🖤"                                
+                                  caption="♡︎ ░▒▓█ shreyu SPAMBOT █▓▒░ ♡︎\n\n\n ✧ shreyu 𝐒𝐩𝐚𝐦𝐁𝐨𝐭 𝐢𝐬 𝐚𝐥𝐢𝐯𝐞 ✧\n\n ┏━━━━━━━━━━━━━━━━━━━\n ┣➣ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 3.9.6\n ┣➣ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 1.17 \n ┣➣ sᴜᴘᴘᴏʀᴛ : [JOIN](https://t.me/LynxBot_Chat)\n ┣➣ ᴄʀᴇᴀᴛᴇʀ : [Birthday girl](https://t.me/CRAZY_SHREYUU)\n ┗━━━━━━━━━━━━━━━━━━━\n\n 🖤 [𝐑𝐄𝐏𝐎](https://github.com/Itz-UNKOWN-xd/Lynx-Multi-SpamBot) 🖤"                                
                               )
      await sdk.send_file(event.chat_id,
                                   RIZ_PIC,
-                                  caption="♡︎ ░▒▓█ LYNX SPAMBOT █▓▒░ ♡︎\n\n\n ✧ 𝐋𝐲𝐧𝐱 𝐒𝐩𝐚𝐦𝐁𝐨𝐭 𝐢𝐬 𝐚𝐥𝐢𝐯𝐞 ✧\n\n ┏━━━━━━━━━━━━━━━━━━━\n ┣➣ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 3.9.6\n ┣➣ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 1.17 \n ┣➣ sᴜᴘᴘᴏʀᴛ : [JOIN](https://t.me/LynxBot_Chat)\n ┣➣ ᴄʀᴇᴀᴛᴇʀ : [Birthday girl](https://t.me/CRAZY_SHREYUU)\n ┗━━━━━━━━━━━━━━━━━━━\n\n 🖤 [𝐑𝐄𝐏𝐎](https://github.com/Itz-UNKOWN-xd/Lynx-Multi-SpamBot) 🖤"                                
+                                  caption="♡︎ ░▒▓█ shreyu SPAMBOT █▓▒░ ♡︎\n\n\n ✧ shreyu 𝐒𝐩𝐚𝐦𝐁𝐨𝐭 𝐢𝐬 𝐚𝐥𝐢𝐯𝐞 ✧\n\n ┏━━━━━━━━━━━━━━━━━━━\n ┣➣ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 3.9.6\n ┣➣ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : 1.17 \n ┣➣ sᴜᴘᴘᴏʀᴛ : [JOIN](https://t.me/LynxBot_Chat)\n ┣➣ ᴄʀᴇᴀᴛᴇʀ : [Birthday girl](https://t.me/CRAZY_SHREYUU)\n ┗━━━━━━━━━━━━━━━━━━━\n\n 🖤 [𝐑𝐄𝐏𝐎](https://github.com/Itz-UNKOWN-xd/Lynx-Multi-SpamBot) 🖤"                                
                               )        
         
         
